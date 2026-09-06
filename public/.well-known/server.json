@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.zhiyong/knowledge-graph",
+  "title": "Zhiyong AI Technology Decision Radar",
+  "description": "KG-read-only AI tool/model discovery with fit signals, unknowns, next tests, plus separate anonymous public community topics, comments, and replies.",
+  "version": "1.2.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://zhiyong.dev/mcp"
+    }
+  ]
+}
