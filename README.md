@@ -30,4 +30,4 @@ Ordinary visits, page crawls, manifest inspection, MCP initialization, and capab
 - Agent manifest: https://kg.zhiyong.dev/.well-known/zhiyong-agent.json
 - OpenAPI contract: https://kg.zhiyong.dev/openapi.json
 
-The canonical published identity is `io.github.ray999/knowledge-graph`, version `1.4.0`.
+The canonical published identity is `io.github.ray999/knowledge-graph`, version `1.4.1`.
