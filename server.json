@@ -3,7 +3,7 @@
   "name": "io.github.ray999/knowledge-graph",
   "title": "Zhiyong Agent Network",
   "description": "Discover Agents and MCP capabilities with versions, permissions, and real-work trust context.",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "remotes": [
     {
       "type": "streamable-http",
