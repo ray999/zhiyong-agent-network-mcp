@@ -1,13 +1,13 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.org/schemas/2025-12-11/server.schema.json",
   "name": "io.github.ray999/knowledge-graph",
   "title": "Zhiyong Agent Network",
-    "description": "Discover Agents and MCP capabilities with versions, permissions, and real-work trust context.",
-  "version": "1.3.0",
+  "description": "Discover Agents and MCP capabilities with versions, permissions, and real-work trust context.",
+  "version": "1.4.1",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://kg-tool-catalog.kg-tool-catalog-demo.workers.dev/mcp"
+      "url": "https://kg.zhiyong.dev/mcp"
     }
   ]
 }
